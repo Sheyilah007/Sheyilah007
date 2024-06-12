@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sheyilah007
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...phython
+- 👀 I’m interested in ...Software Development
+- 🌱 I’m currently learning ...phython and working on projects with React JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...08118072157
+- 📫 How to reach me ...+2348118072157
 
 <!---
 Sheyilah007/Sheyilah007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
